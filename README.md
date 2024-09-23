@@ -1,7 +1,7 @@
 # bfd-django
 Ubuntu 22 React Django Nginx uwsgi
 
-##セットアップ手順
+## セットアップ手順
 
 VPS状にUbuntuをクリーンインストール（VPSプロバイダの画面側から自動操作）
 Anacondaをインストール
