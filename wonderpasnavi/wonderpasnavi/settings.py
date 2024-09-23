@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-2ywi5lhktzhryza&=c&6jj=wf@44(&3j()hkc(ccp^#&w&t2(1
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['room.bigfanofdisney.com']
 
 
 # Application definition
